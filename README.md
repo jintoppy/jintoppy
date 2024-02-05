@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jinto Jose</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Generative AAI**
+- 🌱 I’m currently learning **Generative AI**
 
 - 📝 I regularly write articles on [https://dev.to/jintoppy](https://dev.to/jintoppy)
 
